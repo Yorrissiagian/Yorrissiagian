@@ -39,6 +39,7 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
 
 - 🎓 **Prediksi Dropout Mahasiswa – Kelas Belajar Penerapan Data Science (Dicoding x Laskar AI)**  
   🔗 Repo: https://github.com/Yorrissiagian/Prediksi-Dropout-Mahasiswa
+  
   🔗 Demo: https://jayajayainstitut-k75cbyntzam6qn66aabwtv.streamlit.app/ 
   - Proyek individu dari kelas **Belajar Penerapan Data Science di Dicoding**, dalam program **Laskar AI**
   - Studi kasus dari kampus fiktif *Jaya Jaya Institut* untuk mendeteksi risiko dropout mahasiswa secara dini
