@@ -37,9 +37,23 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
     - Menindaklanjuti feedback dari mentor melalui iterasi model dan penyesuaian dataset
 
 
-- 🧠 **[Prediksi Dropout Mahasiswa](https://github.com/Yorrissiagian/Prediksi-Dropout-Mahasiswa)**
-  - Menggunakan pipeline preprocessing & Random Forest
-  - Disimpan sebagai model `.pkl`, siap digunakan via API
+- 🎓 **Prediksi Dropout Mahasiswa – Kelas Belajar Penerapan Data Science (Dicoding x Laskar AI)**  
+  🔗 Repo: https://github.com/Yorrissiagian/Prediksi-Dropout-Mahasiswa
+  🔗 Demo: https://jayajayainstitut-k75cbyntzam6qn66aabwtv.streamlit.app/ 
+  - Proyek individu dari kelas **Belajar Penerapan Data Science di Dicoding**, dalam program **Laskar AI**
+  - Studi kasus dari kampus fiktif *Jaya Jaya Institut* untuk mendeteksi risiko dropout mahasiswa secara dini
+  - Menggunakan **Random Forest Classifier** dalam pipeline yang mencakup:
+    - Preprocessing numerik dengan `StandardScaler`
+    - Encoding kategorikal dengan `OneHotEncoder`
+    - Gabungan via `ColumnTransformer` ke dalam satu pipeline lengkap
+  - Model akhir dievaluasi dengan:
+    - **Akurasi: 91.87%**, **Precision: 0.95**, **Recall: 0.84**, **F1-Score: 0.89**
+    - Faktor penting: keterlambatan pembayaran, beasiswa, utang, usia masuk, nilai masuk
+  - Hasil akhir:
+    - **Model disimpan sebagai `.pkl`**, lengkap dengan label encoder untuk deployment
+    - **Aplikasi interaktif dibangun dengan Streamlit** untuk memprediksi status mahasiswa
+    - **Dashboard bisnis** dibangun di Metabase untuk membantu pengambilan keputusan kampus
+
 
 
 ---
