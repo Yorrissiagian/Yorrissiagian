@@ -45,13 +45,14 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
   <img src="https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-black?logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -66,9 +67,9 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
 
 ### 📫 Kontak Saya
 
-- 📧 Email: [youremail@email.com] *(ganti dengan email kamu)*
+- 📧 Email: yorrissiagian6@email.com
 - 🌐 Portofolio: [https://yourusername.github.io](https://yourusername.github.io)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: https://www.linkedin.com/in/yorris-siagian-9a4756243/
 
 ---
 
