@@ -19,22 +19,28 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
 
 ### 💼 Proyek Pilihan
 
-- 🔍 **[Prediksi Karyawan Resign (Attrition Analysis)](https://github.com/yourusername/project-attrition)**
-  - Model klasifikasi dengan scikit-learn
-  - Eksperimen dilacak dengan MLflow
-  - Dashboard bisnis menggunakan Metabase
+- 🌾 **Prediksi Penyakit Tanaman Pertanian – Capstone Laskar AI**  
+  🔗 Repo: [github.com/Capstone-LAI25-SM015/Capstone_Project_LAI25](https://github.com/Capstone-LAI25-SM015/Capstone_Project_LAI25)  
+  🔗 Demo: [deteksipenyakittanaman.streamlit.app](https://deteksipenyakittanaman.streamlit.app)  
+  - Proyek capstone kelompok dalam program **Laskar AI - Kampus Merdeka 2024**
+  - Sistem deteksi penyakit tanaman berbasis citra dengan evaluasi lima arsitektur CNN:
+    **MobileNetV1, ResNet50, VGG16, InceptionV3, dan CNN buatan sendiri**
+  - Model terbaik dipilih berdasarkan performa akurasi dan efisiensi untuk deployment
+  - Aplikasi dideploy menggunakan **Streamlit** sebagai antarmuka pengguna
+  - **Peran saya (ketua tim):**
+    - Memimpin penyusunan arah proyek, termasuk diskusi topik, perencanaan teknis, dan pembagian tugas tim
+    - Mengkoordinasikan eksplorasi data dan pembagian preprocessing antar anggota
+    - Berkontribusi aktif dalam pengumpulan dan pemilahan dataset multi-tanaman dan multi-penyakit
+    - Melakukan pengujian dan perbandingan performa dari lima arsitektur model CNN
+    - Membangun prototipe awal dan melakukan deployment akhir ke platform **Streamlit Cloud**
+    - Menyusun dokumen **Project Brief**, serta mempersiapkan dan mempresentasikan hasil proyek akhir bersama tim
+    - Menindaklanjuti feedback dari mentor melalui iterasi model dan penyesuaian dataset
 
-- 🧠 **[Prediksi Dropout Mahasiswa](https://github.com/yourusername/student-dropout)**
+
+- 🧠 **[Prediksi Dropout Mahasiswa](https://github.com/Yorrissiagian/Prediksi-Dropout-Mahasiswa)**
   - Menggunakan pipeline preprocessing & Random Forest
   - Disimpan sebagai model `.pkl`, siap digunakan via API
 
-- 🌾 **[Sistem Rekomendasi Pertanian Cerdas](https://github.com/yourusername/agri-recommender)**
-  - Rekomendasi berbasis data cuaca dan perilaku petani
-  - Implementasi Flask + ML sederhana
-
-- 🖼️ **[Klasifikasi Gambar dengan CNN](https://github.com/yourusername/cnn-image-classifier)**
-  - CNN buatan sendiri (tanpa pretrained model)
-  - Dibandingkan dengan MobileNetV1
 
 ---
 
