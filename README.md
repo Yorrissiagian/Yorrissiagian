@@ -54,6 +54,17 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek n
     - **Aplikasi interaktif dibangun dengan Streamlit** untuk memprediksi status mahasiswa
     - **Dashboard bisnis** dibangun di Metabase untuk membantu pengambilan keputusan kampus
 
+- 🚲 **Prediksi Penyewaan Sepeda Harian**  
+  🔗 Repo: https://github.com/Yorrissiagian/Penyewaan-Sepeda 
+  🔗 Demo: https://dashboard-7eab9hfbenbyif8sneoh86.streamlit.app/
+  - Proyek individu untuk memprediksi jumlah sepeda yang akan disewa setiap hari berdasarkan data historis
+  - Model regresi dilatih dengan variabel seperti **musim, suhu, kelembapan, cuaca, dan hari dalam minggu**
+  - Meliputi proses:
+    - Analisis data historis dan identifikasi pola musiman
+    - Feature engineering berbasis waktu dan kondisi cuaca
+    - Evaluasi model regresi dengan metrik R²
+    - Pengembangan UI interaktif menggunakan **Streamlit**
+  - Aplikasi memungkinkan pengguna memasukkan parameter input secara manual dan mendapatkan hasil prediksi langsung
 
 
 ---
