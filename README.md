@@ -94,12 +94,12 @@ Bagi saya, pembelajaran terbaik adalah membangun solusi nyata yang menyelesaikan
 
 ---
 
-### 🔭 Saat Ini Saya Sedang Belajar:
+### 🔭 Keahlian dan Fokus Saat Ini
+⚙️ MLOps: Pelacakan eksperimen dengan MLflow, otomatisasi pipeline melalui GitHub Actions, serta monitoring model menggunakan Prometheus & Grafana
 
-- 🎯 MLOps: MLflow, GitHub Actions, Prometheus, Grafana
-- 🤖 Generative AI dan Large Language Models (LLM)
-- 🧱 Microservices NVIDIA untuk sistem AI terdistribusi
-- 📦 Deployment model via Docker & REST API
+📦 Model Deployment: Pengemasan model dengan Docker dan penyajian melalui REST API untuk kebutuhan produksi
+
+📊 End-to-End ML Pipeline: Pengolahan data, training model, evaluasi, dan deployment dalam satu alur kerja yang rapi dan modular
 
 ---
 
