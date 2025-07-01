@@ -3,8 +3,11 @@
 
 <p align="center">
 🎓 Fresh graduate dengan antusiasme tinggi di bidang Machine Learning & Artificial Intelligence
+  
 🔧 Berpengalaman membangun pipeline ML end-to-end: dari preprocessing, training, hingga deployment
+
 🌱 Terbuka untuk kolaborasi dan pengembangan solusi AI berbasis riset maupun industri
+
 </p>
 
 ---
