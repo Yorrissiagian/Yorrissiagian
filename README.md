@@ -95,11 +95,22 @@ Bagi saya, pembelajaran terbaik adalah membangun solusi nyata yang menyelesaikan
 ---
 
 ### 🔭 Keahlian dan Fokus Saat Ini
-⚙️ MLOps: Pelacakan eksperimen dengan MLflow, otomatisasi pipeline melalui GitHub Actions, serta monitoring model menggunakan Prometheus & Grafana
+🧠 Machine Learning: Pengembangan model untuk klasifikasi dan regresi dengan pendekatan berbasis data
 
-📦 Model Deployment: Pengemasan model dengan Docker dan penyajian melalui REST API untuk kebutuhan produksi
+📈 Data Preprocessing & Feature Engineering: Pembersihan, transformasi, dan ekstraksi fitur dari data numerik, kategorikal, maupun time-series
 
-📊 End-to-End ML Pipeline: Pengolahan data, training model, evaluasi, dan deployment dalam satu alur kerja yang rapi dan modular
+🖼️ Computer Vision & Deep Learning: Penerapan teknik deep learning untuk klasifikasi gambar dan pemrosesan visual
+
+🧪 Evaluasi & Validasi Model: Penggunaan metrik evaluasi untuk mengukur performa dan efektivitas model dalam skenario dunia nyata
+
+🚀 Deployment & Model Serving: Penyajian model ke pengguna akhir melalui aplikasi interaktif berbasis web
+
+📊 Data Visualization & Dashboarding: Visualisasi data dan insight bisnis melalui dashboard analitik
+
+⚙️ MLOps: Tracking eksperimen, otomatisasi pipeline, dan monitoring model menggunakan tool modern
+
+🛠️ Tech Stack: Python, scikit-learn, pandas, Streamlit, TensorFlow, MLflow, Docker, GitHub Actions, Prometheus, Grafana, Metabase
+
 
 ---
 
