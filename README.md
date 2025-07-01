@@ -2,18 +2,18 @@
 
 
 <p align="center">
-  🎓 Fresh graduate dengan semangat belajar tinggi di bidang Machine Learning & AI <br>
-  🔧 Berpengalaman membangun pipeline ML dari preprocessing hingga deployment <br>
-  🌱 Terbuka untuk peluang internship dan kolaborasi di bidang AI
+🎓 Fresh graduate dengan antusiasme tinggi di bidang Machine Learning & Artificial Intelligence
+🔧 Berpengalaman membangun pipeline ML end-to-end: dari preprocessing, training, hingga deployment
+🌱 Terbuka untuk kolaborasi dan pengembangan solusi AI berbasis riset maupun industri
 </p>
 
 ---
 
 ### 🧠 Tentang Saya
 
-Saya adalah seorang calon Machine Learning Engineer yang antusias dalam mengembangkan sistem AI dari hulu ke hilir: mulai dari data preprocessing, pelatihan model, hingga deployment dan monitoring di production.
-
-Saya percaya bahwa cara terbaik untuk belajar adalah dengan **membangun proyek nyata** dan menghadapi tantangan langsung.
+Saya membangun sistem AI secara menyeluruh — dari data mentah hingga model yang siap produksi.
+Terbiasa menangani seluruh siklus hidup ML: preprocessing, pelatihan model, deployment, dan monitoring.
+Bagi saya, pembelajaran terbaik adalah membangun solusi nyata yang menyelesaikan masalah nyata.
 
 ---
 
