@@ -117,8 +117,8 @@ Bagi saya, pembelajaran terbaik adalah membangun solusi nyata yang menyelesaikan
 ### 📫 Kontak Saya
 
 - 📧 Email: yorrissiagian6@email.com
-- 🌐 Portofolio: [https://yourusername.github.io](https://yourusername.github.io)
-- 💼 LinkedIn: https://www.linkedin.com/in/yorris-siagian-9a4756243/
+- 🌐 Portofolio: [https://yorrissiagian.github.io/](https://yorrissiagian.github.io/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/yorris-siagian-9a4756243/](https://www.linkedin.com/in/yorris-siagian-9a4756243/)
 
 ---
 
