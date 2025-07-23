@@ -1,14 +1,13 @@
 ## Hai, I'm Yorris Siagian 👋
 
-<p align="center">
-  Lulusan Teknik Informatika dengan spesialisasi di bidang Machine Learning dan Deep Learning. Saya memiliki pengalaman membangun sistem AI secara end-to-end — mulai dari preprocessing data, pelatihan model, evaluasi, deployment, hingga monitoring.
+Lulusan Teknik Informatika dengan spesialisasi di bidang Machine Learning dan Deep Learning. Saya memiliki pengalaman membangun sistem AI secara end-to-end — mulai dari preprocessing data, pelatihan model, evaluasi, deployment, hingga monitoring.
 
-  Beberapa proyek yang pernah saya kerjakan meliputi klasifikasi gambar tanaman dengan CNN, prediksi dropout mahasiswa dengan dashboard interaktif, analisis sentimen ulasan aplikasi Gojek, serta klasifikasi wajah anak autis menggunakan metode boosting.
+Beberapa proyek yang pernah saya kerjakan meliputi klasifikasi gambar tanaman dengan CNN, prediksi dropout mahasiswa dengan dashboard interaktif, analisis sentimen ulasan aplikasi Gojek, serta klasifikasi wajah anak autis menggunakan metode boosting.
 
-  Saya terbiasa menggunakan berbagai tools modern seperti Python, TensorFlow, scikit-learn, Streamlit, MLflow, Docker, dan Prometheus.
+Saya terbiasa menggunakan berbagai tools modern seperti Python, TensorFlow, scikit-learn, Streamlit, MLflow, Docker, dan Prometheus.
 
-  🔗 Silakan cek repositori saya — atau hubungi saya jika ingin berkolaborasi!
-</p>
+🔗 Silakan cek repositori saya — atau hubungi saya jika ingin berkolaborasi!
+
 
 ---
 
