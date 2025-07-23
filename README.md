@@ -6,7 +6,7 @@ Beberapa proyek yang pernah saya kerjakan meliputi klasifikasi gambar tanaman de
 
 Saya terbiasa menggunakan berbagai tools modern seperti Python, TensorFlow, scikit-learn, Streamlit, MLflow, Docker, dan Prometheus.
 
-🔗 Silakan cek repositori saya — atau hubungi saya jika ingin berkolaborasi!
+🔗 [Silakan cek repositori saya](https://github.com/Yorrissiagian?tab=repositories) — atau hubungi saya jika ingin berkolaborasi!
 
 
 ---
