@@ -2,7 +2,6 @@
 
 
 <p align="center">
-
  Lulusan Informatika dengan spesialisasi Machine Learning & Deep Learning. Berpengalaman dalam pengembangan model end-to-end, evaluasi, deployment, dan monitoring menggunakan tools modern seperti MLflow, Docker, dan Streamlit.
 </p>
 
