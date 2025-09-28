@@ -1,4 +1,4 @@
-## Hai, I'm Yorris Siagian 👋
+## Hai, saya Yorris Siagian 👋
 
 Lulusan Teknik Informatika dengan spesialisasi di bidang Machine Learning dan Deep Learning. Saya memiliki pengalaman membangun sistem AI secara end-to-end — mulai dari preprocessing data, pelatihan model, evaluasi, deployment, hingga monitoring.
 
